@@ -1,7 +1,6 @@
 # EDA-project
+![65D73617-95B7-45CE-8841-F99AB4AF8919_4_5005_c](https://github.com/RX201/EDA/assets/165085409/942f4dca-b94e-4e04-8412-7a67a6ed53a9)
 
-
-![AirBnb](https://user-images.githubusercontent.com/121340232/215006504-cacfdcbc-d047-495b-ba2a-994753957ab8.jpg)
 
 
 # Table Of Contents
